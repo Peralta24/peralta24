@@ -32,3 +32,6 @@ Convertirme en **iOS Developer** y crear aplicaciones que sean útiles, bonitas 
 - Además de programar, disfruto [tu hobby aquí] 🎮📚🎧  
 
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)

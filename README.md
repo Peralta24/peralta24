@@ -18,16 +18,11 @@ Convertirme en **iOS Developer** y crear aplicaciones que sean útiles, bonitas 
 ---
 
 ## 📌 Próximos proyectos
-- 📱 Una app sencilla de notas con SwiftUI  
+- 📱 Una app de notas con SwiftUI  
 - ⏰ Una app de recordatorios  
 - 🎵 Una app que muestre playlists de música  
 
 *(Por ahora estoy subiendo ejercicios y pequeños proyectos mientras aprendo)*
-
----
-
-## 📊 Mis estadísticas en GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ---
 

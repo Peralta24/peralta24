@@ -1,37 +1,23 @@
 ## Hi there 👋
 
-Estoy aprendiendo **Swift** y desarrollo iOS 📱.  
-Me gusta la programación porque me permite **crear cosas desde cero**, resolver problemas y compartir ideas con el mundo.  
+I'm **Jose**, an iOS app developer based in **Mexico**.  
+I design and build whatever I can imagine.  
+If an idea pops into my head, chances are I’ll build it and share it.
+
+My main tech stack includes **Swift**, **SwiftUI**, and **SQLite**.  
+My favorite tools are **Figma**, **Xcode**, **Apple Notes**, **Notion**, and **Playgrounds** on my iPad.
+
+I'm currently studying **Swift** with **SwiftUI**, and I’ve built three apps so far.  
+You can find some of them pinned below — my favorite right now is **Guess The Flag**.
+
+I’ve created over **5 public repositories**, and privately… probably more than **10** at this point 😄.  
+If you’d like to see my projects, they’re available here on my GitHub profile.
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo
-- Swift y SwiftUI 🍏  
-- Fundamentos de programación orientada a objetos  
-- Cómo crear mis primeras apps en Xcode  
+## 🎮 Fun Facts
 
----
-
-## 🚀 Mi objetivo
-Convertirme en **iOS Developer** y crear aplicaciones que sean útiles, bonitas y fáciles de usar.  
-
----
-
-## 📌 Próximos proyectos
-- 📱 Una app de notas con SwiftUI  
-- ⏰ Una app de recordatorios  
-- 🎵 Una app que muestre playlists de música  
-
-*(Por ahora estoy subiendo ejercicios y pequeños proyectos mientras aprendo)*
-
----
-
-## ⚡ Fun facts
-- Me gusta aprender mientras practico 🧑‍💻  
-- Soy curioso y me gusta entender cómo funcionan las apps que uso todos los días  
-- Además de programar, disfruto [tu hobby aquí] 🎮📚🎧  
-
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- I love playing video games  
+- I don’t like coffee ☕  
+- **One Piece** is my favorite anime 🏴‍☠️  
+- Hobbies: anime, sports, and building things  

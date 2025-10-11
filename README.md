@@ -13,6 +13,17 @@ You can find some of them pinned below — my favorite right now is **Guess The 
 I’ve created over **5 public repositories**, and privately… probably more than **10** at this point   
 If you’d like to see my projects, they’re available here on my GitHub profile.
 
+## My iOS Projects 📱
+
+### [WeSplit](https://github.com/Peralta24/WeSplit)
+A simple app to split bills among friends. Built with Swift & SwiftUI.
+
+### [Project-02](https://github.com/Peralta24/Project-02)
+Brief description of Project-02.
+
+### [GuessTheFlag](https://github.com/Peralta24/GuessTheFlag)
+A fun game to guess the flag of a country. SwiftUI & Swift project.
+
 ##  Fun Facts
 
 - I love playing video games  

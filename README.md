@@ -10,7 +10,7 @@ My favorite tools are **Figma**, **Xcode**, **Apple Notes**, **Notion**, and **P
 I'm currently studying **Swift** with **SwiftUI**, and I’ve built three apps so far.  
 You can find some of them pinned below — my favorite right now is **Guess The Flag**.
 
-I’ve created over **5 public repositories**, and privately… probably more than **10** at this point 😄.  
+I’ve created over **5 public repositories**, and privately… probably more than **10** at this point   
 If you’d like to see my projects, they’re available here on my GitHub profile.
 
 ##  Fun Facts

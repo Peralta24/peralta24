@@ -13,9 +13,7 @@ You can find some of them pinned below — my favorite right now is **Guess The 
 I’ve created over **5 public repositories**, and privately… probably more than **10** at this point 😄.  
 If you’d like to see my projects, they’re available here on my GitHub profile.
 
----
-
-## 🎮 Fun Facts
+##  Fun Facts
 
 - I love playing video games  
 - I don’t like coffee ☕  

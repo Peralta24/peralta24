@@ -8,16 +8,18 @@ My main tech stack includes **Swift**, **SwiftUI**, and **SQLite**.
 My favorite tools are **Figma**, **Xcode**, **Apple Notes**, **Notion**, and **Playgrounds** on my iPad.
 
 I'm currently studying **Swift** with **SwiftUI**, and I’ve built three apps so far.  
-You can find some of them pinned below — my favorite right now is **Guess The Flag**.
+You can find some of them pinned below — my favorite right now is **[BetterRest](https://github.com/peralta8086/Project-04)** 💤,  
+an app that uses **machine learning** to predict the ideal bedtime based on your sleep habits.  
+Right after that comes **[Guess The Flag](https://github.com/Peralta24/GuessTheFlag)** 🏳️, which was a super fun project to practice SwiftUI basics.
 
-I’ve created over **5 public repositories**, and privately… probably more than **10** at this point   
+I’ve created over **5 public repositories**, and privately… probably more than **10** at this point.  
 If you’d like to see my projects, they’re available here on my GitHub profile.
 
-I’ve got a bunch of pinned projects, but my favorite is the [GuessTheFlag](https://github.com/Peralta24/GuessTheFlag) App.
+---
 
-##  Fun Facts
+## Fun Facts
 
-- I love playing video games  
+- I love playing video games 🎮  
 - I don’t like coffee ☕  
 - **One Piece** is my favorite anime 🏴‍☠️  
-- Hobbies: anime, sports, and building things  
+- Hobbies: anime, sports, and building things ⚙️  

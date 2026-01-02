@@ -8,7 +8,7 @@ My main tech stack includes **Swift**, **SwiftUI**, and **SQLite**.
 My favorite tools are **Figma**, **Xcode**, **Apple Notes**, **Notion**, and **Playgrounds** on my iPad.
 
 I'm currently studying **Swift** with **SwiftUI**, and I’ve built three apps so far.  
-You can find some of them pinned below — my favorite right now is **[AnimeTier](https://github.com/Peralta24/BetterRestApp)** 💤,  
+You can find some of them pinned below — my favorite right now is **[AnimeTierApp](https://github.com/Peralta24/BetterRestApp)** 💤,  
 an app that uses **machine learning** to predict the ideal bedtime based on your sleep habits.  
 Right after that comes **[Guess The Flag](https://github.com/Peralta24/GuessTheFlag)** 🏳️, which was a super fun project to practice SwiftUI basics.
 
